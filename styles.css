@@ -1,0 +1,17 @@
+.judul {
+    text-align: center;
+    color: white;
+}
+
+.bar {
+    background-color: brown;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+.grid-container{
+    display: grid;
+    gap: 50px;
+}
